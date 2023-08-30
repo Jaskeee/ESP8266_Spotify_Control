@@ -2,7 +2,7 @@
 Use your ESP8266 to control your Spotify Tracks. The project uses a series of electronic components coupled with the ESP8266 to control your spotify tracks via a Circuit on a Breadboard!
 The Project use a Flask server coded in Python that uses the Spotipy
 
-##_Required Electronic Components :_
+## _Required Electronic Components :_
 _1. Jumper Wires (male-male,male-female)_
 _2. 16x2 Segment Display_
 _3. I2C Module for the 16x2 Segment_
