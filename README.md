@@ -16,14 +16,14 @@ To setup your Server start by creating a virtual environment in Python by
 
 
 ### Materials Required : 
-- 1.16x2 Segment Display.
-- 2. I²C Module ( to help interface the Display with the ESP8266 using I²C protocol)
-- 3. Node MCU ESP8266
-- 4. Male - Male Jumper wires
-- 5. Male- Female Jumper wires 
-- 6. Resistors (I used 10k Ohm (Ω) here)
-- 7.3 x Buttons
-- 8.Breadboard 
+-1.16x2 Segment Display.
+-2. I²C Module ( to help interface the Display with the ESP8266 using I²C protocol)
+-3. Node MCU ESP8266
+-4. Male - Male Jumper wires
+-5. Male- Female Jumper wires 
+-6. Resistors (I used 10k Ohm (Ω) here)
+-7.3 x Buttons
+-8.Breadboard 
 9. Micro USB cable
 
 You can assemble the circuit as shown in the picture below and keep an eye out for the legend in the bottom right corner.
